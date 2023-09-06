@@ -1,0 +1,67 @@
+/* style.css */
+
+/*  */
+body {
+  background-color: #192444;
+  margin: 5%;
+}
+
+/* CHARTS */
+/* Customize background color for the chart container */
+.chart-container {
+    background-color: #1f2c56;
+}
+
+/* DATE PICKER RANGE */
+/* Styling the DatePickerRange input box */
+.date-range-picker .DateInput_input {
+    color: white;
+    background-color: #1f2c56;
+    border-color: #1f2c56
+}
+
+/* Only A PArt: Styling the DatePickerRange calendar background */
+/*.date-range-picker .CalendarMonth_caption {
+    color: white;
+    background-color: #1f2c56;
+}/*
+
+/* Styling the DatePickerRange arrow background */
+.date-range-picker .DateRangePickerInput {
+    color: white;
+    background-color: #1f2c56;
+
+}
+
+/* Styling the DatePickerRange arrow */
+.date-range-picker .DateRangePickerInput_arrow_svg {
+    fill: white;
+}
+
+/* DROPDOWN MENUS /*
+/* Customize ALL Dropdown menus in the code, setting background color and font color */
+.Select-control {
+    background-color: #1f2c56 !important;
+    color:white;
+  }
+
+.Select-menu-outer {
+    background-color: #1f2c56;
+    color: white;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+
+/* RADIO ITEMS */
+.dash-radio-items input[type="radio"] + label {
+    color: white !important; /* Change this to set the font color to white */
+}
+
+
+/* Not sure: Customize background color for the main container */
+.main-container {
+    background-color: #192444;
+}
