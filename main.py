@@ -652,9 +652,10 @@ def update_charts(cert_start_date_start_date, cert_start_date_end_date, cert_exp
 #app.css.config.serve_locally = True
 #####
 
-# Run the app
+# Run the app. Here we did so that Dash app is configured to listen on 0.0.0.0 (all available network interfaces) rather than just 127.0.0.1 (localhost)
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(host='0.0.0.0', port=8050, debug=True)
+
 
 
 
