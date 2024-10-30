@@ -1,0 +1,2 @@
+The purpose of this Automation project is to extract data from Excel (different tables), perform some data cleaning and transformation, defining a dashboard by plotting some graphs and charts, and creating a Dash Web Application to host the dashboards.
+In this way, the end user does not need to manually perform repetive and long tasks, such as dealing with Excela dn different tables, cleaning data, but can simply look at the final dashboard with the chart of interest.
