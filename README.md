@@ -3,6 +3,8 @@ The purpose of this Automation project is to extract data from Excel (different 
 
 In this way, the end user does not need to manually perform repetive and long tasks, such as dealing with Excela dn different tables, cleaning data, but can simply look at the final dashboard with the chart of interest.
 
+Note: Names and figures displayed here are sample and differ from the business ones.
+
 ![SAP Automation project - Dash Web app Screenshot (724)](https://github.com/user-attachments/assets/6610efef-974c-452a-8e69-42dba3a6d5bc)
 
 
